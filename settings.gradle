@@ -1,0 +1,4 @@
+rootProject.name = 'tdd-start'
+
+include 'chap02-idea'
+include 'chap03-idea'
